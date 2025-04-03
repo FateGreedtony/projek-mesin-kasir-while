@@ -28,7 +28,7 @@ int main(){
         cout << "total harga: " << jumHarga << endl;
 
         // konfirmasi pembayar
-        cout << "konfirmasi pembayar: ";
+        cout << "konfirmasi pembayaran dengan memasukkan uang sejumlah total harga: ";
         cin >> uang;
 
         // logika konfirmasi pembayaran
